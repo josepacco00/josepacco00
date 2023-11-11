@@ -5,7 +5,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **kubernetes, jenkins**
 
-- 📫 How to reach me **josepacco00@gmail.com**
+- 📫 Contactame: **josepacco00@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
